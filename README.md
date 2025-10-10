@@ -1,0 +1,41 @@
+# 📱 PV App – Punto de Venta Simple
+
+Una app Android sencilla para escanear productos, calcular total, exportar ventas en CSV y cerrar el día. Diseñada para ser clara, rápida y fácil de usar.
+
+---
+
+## 🚀 Características
+
+- 📷 Escaneo de productos por cámara (QR)
+- 🛒 Carrito editable con resumen en tiempo real
+- 📤 Exportación de ventas en archivo CSV
+- 🕒 Registro de hora de cada venta
+- 📋 Resumen visual de productos vendidos
+- 🗑️ Limpieza de archivo y carrito al finalizar el día
+- 👾 Easter egg oculto con firma “Azarilo”
+
+---
+
+## 🧩 Tecnologías
+
+- Kotlin + Android SDK
+- ZXing para escaneo QR
+- Room (opcional para futuras versiones)
+- CSV plano para mantenerlo simple
+
+---
+
+## 📸 Capturas
+
+<p align="center">
+  <img src="screenshots/venta.png" width="250"/>
+  <img src="screenshots/resumen.png" width="250"/>
+</p>
+
+---
+
+## 🛠️ Instalación
+
+1. Clona el repositorio:
+   ```bash
+   git clone https://github.com/tu-usuario/pv-app.git
