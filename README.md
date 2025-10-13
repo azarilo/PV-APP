@@ -12,7 +12,6 @@ Una app Android sencilla para escanear productos, calcular total, exportar venta
 - 🕒 Registro de hora de cada venta
 - 📋 Resumen visual de productos vendidos
 - 🗑️ Limpieza de archivo y carrito al finalizar el día
-- 👾 Easter egg oculto con firma “Azarilo”
 
 ---
 
