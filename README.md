@@ -27,7 +27,7 @@ Una app Android sencilla para escanear productos, calcular total, exportar venta
 ## 📸 Capturas
 
 <p align="center">
-  ![Screenshot_20251013_105414_com example pv(1)](https://github.com/user-attachments/assets/4f447f1d-94d5-4c7f-88b0-ad81084e29e2)
+  <img src="![Screenshot_20251013_105414_com example pv(1)](https://github.com/user-attachments/assets/4f447f1d-94d5-4c7f-88b0-ad81084e29e2)width="250"/>
   <img src="screenshots/venta.png" width="250"/>
   <img src="screenshots/resumen.png" width="250"/>
 </p>
