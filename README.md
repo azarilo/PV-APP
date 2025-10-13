@@ -26,11 +26,8 @@ Una app Android sencilla para escanear productos, calcular total, exportar venta
 
 ## 📸 Capturas
 
-<p align="center">
-<p align="center">
-  <[Screenshot_20251013_105414_com example pv(1)](https://github.com/user-attachments/assets/245dd3b0-6df8-4678-ab11-963e6810ca84)
-" width="300" alt="Escaneo de código QR">
-</p>
+![app](https://github.com/user-attachments/assets/8ee0086f-4832-486a-b44f-b7eae7679c9e)
+<p align="center"> <img src="https://github.com/user-attachments/assets/8ee0086f-4832-486a-b44f-b7eae7679c9e)"> </p>
 
 ---
 
