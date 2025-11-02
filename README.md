@@ -30,7 +30,7 @@ Una app Android sencilla para escanear productos, calcular total, exportar venta
   <img src="https://github.com/user-attachments/assets/8ee0086f-4832-486a-b44f-b7eae7679c9e" width="150" alt="Vista previa de la app">
 </p>
 <p align="center">
-  <img src="[https://github.com/user-attachments/assets/1](https://github.com/azarilo/PV-APP/blob/main/1.png)" width="150" alt="Vista previa de la app">
+  <img src="https://github.com/azarilo/PV-APP/blob/main/1.png" width="150" alt="Vista previa de la app">
 </p>
 ---
 
